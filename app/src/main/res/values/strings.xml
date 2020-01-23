@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quick Files</string>
+    <string name="tab_text_1">Files</string>
+    <string name="tab_text_2">Token</string>
+    <string name="generate_token">Generate Token</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="allow_uploads">Allow Uploads </string>
+    <string name="delete">delete</string>
+</resources>
